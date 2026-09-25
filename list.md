@@ -4,7 +4,7 @@
 Choa Badminton cung cấp các sân thể thao phục vụ nhu cầu chơi cầu lông.
 
 | Mã sân | Loại sân | Đặc điểm | Trạng thái |
-|---|---|---|---|
+|:---:|:---:|:---:|:---:|
 | S01 | Cầu lông | Sân thảm, đèn LED | Có thể đặt |
 | S02 | Cầu lông | Sân thảm, đèn LED | Có thể đặt |
 | S03 | Cầu lông | Sân thảm, đèn LED | Có thể đặt |
@@ -24,3 +24,4 @@ Choa Badminton cung cấp các sân thể thao phục vụ nhu cầu chơi cầu
 - Phòng tắm nóng/lạnh.
 
 Khách hàng có nhu cầu đăng ký lịch cố định có thể liên hệ trực tiếp với sân.
+![san cau long.jpg]
