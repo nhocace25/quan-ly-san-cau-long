@@ -24,4 +24,5 @@ Choa Badminton cung cấp các sân thể thao phục vụ nhu cầu chơi cầu
 - Phòng tắm nóng/lạnh.
 
 Khách hàng có nhu cầu đăng ký lịch cố định có thể liên hệ trực tiếp với sân.
-![Hình ảnh sân cầu lông](san cau long.jpg)
+
+![Hình ảnh sân cầu lông](san-cau-long.jpg)
